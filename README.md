@@ -12,4 +12,7 @@
 
 ![matmul](/images/matmul.png)
 
-References : [Andrew Trask blog](https://iamtrask.github.io/2015/07/12/basic-python-network/)    [Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)   [Python tutorial](https://docs.python.org/3/tutorial/)
+References :    
+[Andrew Trask blog](https://iamtrask.github.io/2015/07/12/basic-python-network/)       
+[Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)      
+[Python tutorial](https://docs.python.org/3/tutorial/)
