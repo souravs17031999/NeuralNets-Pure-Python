@@ -13,7 +13,9 @@
 ![matmul](/images/matmul.png)
 
 
-> Highly recommended following tutorials and articles if you feel a bit perplexed !    
+> Highly recommended following tutorials and articles if you feel a bit perplexed !       
+         
+             
 References :    
 [Andrew Trask blog](https://iamtrask.github.io/2015/07/12/basic-python-network/)       
 [Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)      
