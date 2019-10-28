@@ -12,7 +12,11 @@
 
 ![matmul](/images/matmul.png)
 
+
+> Highly recommended following tutorials and articles if you feel a bit perplexed !    
 References :    
 [Andrew Trask blog](https://iamtrask.github.io/2015/07/12/basic-python-network/)       
 [Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)      
 [Python tutorial](https://docs.python.org/3/tutorial/)
+[Refresher on Gradient descent](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-gradient-descent-intuition-e5bde385078)    
+[Refresher on backpropogation](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8)
