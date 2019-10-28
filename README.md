@@ -4,8 +4,10 @@
 
 * Here we only talk a simple network with simple examples because again, we need to look deeper and so we need to understand fundamentals first, others are just stacking over one another.
 
+<<<<<<< HEAD
 ### Here, is a simple overview of what the inner code says for itself.
 
 ![matrixshapes](/images/overviewmatrix.png)
+
 
 References : [Andrew Trask blog](https://iamtrask.github.io/2015/07/12/basic-python-network/)
