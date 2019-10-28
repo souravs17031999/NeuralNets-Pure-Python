@@ -3,3 +3,5 @@
 * This is a necessary concept to be understood in understanding how actually, we are building more complex neural networks becasue layers stacked over one another keeps the matrices computations overly abstracted but getting deeper insight into their shapes will help us in understanding how our inputs and outputs are related and also very useful while debugging the code as most of the errors occur due to in consistent shapes of matrix.    
 
 * Here we only talk a simple network with simple examples because again, we need to look deeper and so we need to understand fundamentals first, others are just stacking over one another.
+
+References : Code has been mostly taken and modified from [Andrew Trask blog](https://iamtrask.github.io/2015/07/12/basic-python-network/)
