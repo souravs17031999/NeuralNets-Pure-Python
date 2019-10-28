@@ -4,4 +4,6 @@
 
 * Here we only talk a simple network with simple examples because again, we need to look deeper and so we need to understand fundamentals first, others are just stacking over one another.
 
+![matrixshapes](/images/overviewmatrix.png)
+
 References : [Andrew Trask blog](https://iamtrask.github.io/2015/07/12/basic-python-network/)
