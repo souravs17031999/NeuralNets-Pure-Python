@@ -4,6 +4,9 @@
 
 * Here we only talk a simple network with simple examples because again, we need to look deeper and so we need to understand fundamentals first, others are just stacking over one another.
 
+![anime1](/images/1.gif)    
+![anime1](/images/2.gif)     
+
 ### Here, is a simple overview of what the inner code says for itself.
 
 ![matrixshapes](/images/overviewmatrices.png)
