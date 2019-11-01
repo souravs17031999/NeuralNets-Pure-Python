@@ -40,4 +40,6 @@ References :
 [Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)      
 [Python tutorial](https://docs.python.org/3/tutorial/)     
 [Refresher on Gradient descent](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-gradient-descent-intuition-e5bde385078)    
-[Refresher on backpropogation](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8)
+[Refresher on backpropogation](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8)      
+
+* ⭐️ this repo if you liked it ! 
