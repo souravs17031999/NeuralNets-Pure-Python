@@ -18,8 +18,18 @@
 ![matmul](/images/matmul.png)     
        
 ### Installation :    
-1. Clone the repository and navigate to the folder where repo is downloaded.
-`kbjbbjb`
+1. Clone the repository and navigate to the folder where repo is downloaded.     
+`git clone https://github.com/souravs17031999/NeuralNets-Pure-Python.git`    
+`cd NeuralNets-Pure-Python`
+
+2. Install all the requirements (maybe create a separate environment using [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)).     
+`pip install -r requirements.txt`
+
+3. Open file "Analysis_neural_networks.ipynb" on Jupyter Notebook.    
+`Jupyter Notebook Analysis_neural_networks.ipynb`
+
+4. Now you should see the notebook opened in your browser on local server host.   
+Feel free to explore.
 
 > Highly recommended following tutorials and articles if you feel a bit perplexed !       
          
