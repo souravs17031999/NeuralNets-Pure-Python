@@ -17,7 +17,9 @@
 
 ![matmul](/images/matmul.png)     
        
-       
+### Installation :    
+1. Clone the repository and navigate to the folder where repo is downloaded.
+`kbjbbjb`
 
 > Highly recommended following tutorials and articles if you feel a bit perplexed !       
          
