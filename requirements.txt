@@ -1,0 +1,6 @@
+Following requirements are needed for this tutorial : 
+jupyter==1.0.0  
+notebook==6.0.1       
+numpy==1.16.4     
+python==3.7.0      
+virtualenv==16.0.0    
