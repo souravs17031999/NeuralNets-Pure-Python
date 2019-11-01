@@ -24,6 +24,7 @@
 
 2. Install all the requirements (maybe create a separate environment using [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)).     
 `pip install -r requirements.txt`
+* For your reference : requirements mainly includes [Python](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe) [Numpy](https://pypi.org/project/numpy/) [Jupyter Notebook](https://pypi.org/project/jupyter/)
 
 3. Open file "Analysis_neural_networks.ipynb" on Jupyter Notebook.    
 `Jupyter Notebook Analysis_neural_networks.ipynb`
