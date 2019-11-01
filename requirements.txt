@@ -1,4 +1,4 @@
-Following requirements are needed for this tutorial : 
+# Following requirements are needed for this tutorial : 
 jupyter==1.0.0  
 notebook==6.0.1       
 numpy==1.16.4     
